@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@android:color/white"
+        />
+
+    <item
+        android:drawable="@drawable/i_bg_bluesh_rounded_bottom"
+        android:top="6dp"
+        android:bottom="6dp"
+        android:left="14dp"
+        android:right="14dp"
+        />
+
+</layer-list>

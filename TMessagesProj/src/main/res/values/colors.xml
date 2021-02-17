@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#dcdcdc</color>
+    <color name="colorPrimary">#575deb</color>
+    <color name="colorAccent">#464abc</color>
+    <color name="colorPrimaryDark">#575deb</color>
+    <color name="white">#ffffff</color>
+    <color name="backgroundColor">#fafafa</color>
+    <color name="whitish">#fafafa</color>
+    <color name="black">#000000</color>
+    <color name="colorSecondary">#dddffb</color>
+    <color name="text_input_error_color">#FF0000</color>
+    <color name="disabled_color">#8EB7EB</color>
+
+    <color name="darkGrey">#585858</color>
+    <color name="lightGrey">#7E7E7E</color>
+    <color name="lighter_grey">#F0F0F0</color>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#3FC41B</color>
+    <color name="border">#dcdcdc</color>
+    <color name="gray">#585858</color>
+    <color name="grayish">#F0F0F0</color>
+    <color name="grayishRipple">#DADADA</color>
+    <color name="previewCounterColor">#c3c3c3</color>
+    <color name="secondaryRipple">#DDDFFB</color>
+    <color name="borderGray">#1a000000</color>
+    <color name="hintColor">#929292</color>
+    <color name="primaryRipple">#6D79FF</color>
+    <color name="paymeRipple">#E0E0E0</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="backgroundCircleTransparent">#80ffffff</color>
+    <color name="backgroundSelectableTransparent">#80ffffff</color>
+    <color name="colorSecondaryTransparent">#bfdddffb</color>
+    <color name="ratingTextColor">#b1b1b1</color>
+    <color name="lightBlue">#11C3EB</color>
+    <color name="ratingStarColor">#FFC107</color>
+    <color name="statusBarTransparent">#33000000</color>
+    <color name="tabUnselectedColor">#F5F5F5</color>
+
+    <!-- Story Display Progress-->
+    <color name="progress_primary">@color/white</color>
+    <color name="progress_secondary">@color/gray_scale</color>
+    <color name="progress_max_active">@color/white</color>
+    <color name="gray_scale">#8AFFFFFF</color>
+    <color name="header_qr_block_background_color">#f4f4f4</color>
+
+    <color name="light_status_bar_color">#F5F5F5</color>
+
+
+    <!--    Image Editor-->
+    <color name="blue_color_picker">#0066FF</color>
+    <color name="brown_color_picker">#AF593E</color>
+    <color name="green_color_picker">#01A368</color>
+    <color name="orange_color_picker">#f7ab3b</color>
+    <color name="light_blue">#0cc6b9</color>
+    <color name="monitoring_pink">#f557ab</color>
+    <color name="monitoring_blue">#585eeb</color>
+    <color name="monitoring_yellow">#feb705</color>
+    <color name="monitoring_light_blue">#3faccd</color>
+    <color name="red_color_picker">#ED0A3F</color>
+    <color name="red_orange_color_picker">#FF3F34</color>
+    <color name="sky_blue_color_picker">#76D7EA</color>
+    <color name="violet_color_picker">#8359A3</color>
+    <color name="yellow_color_picker">#FBE870</color>
+    <color name="yellow_green_color_picker">#C5E17A</color>
+    <color name="tool_bg">#151414</color>
+    <color name="semi_black_transparent">#99000000</color>
+
+    <color name="cardColorDarkBlue">#252E3A</color>
+    <color name="cardColorDarkPink">#A34049</color>
+    <color name="lightBlueEF">#EFEFEF</color>
+    <color name="grey7E">#7E7E7E</color>
+    <color name="greyA1">#a1a1a1</color>
+    <color name="grey6C">#6c6c6c</color>
+    <color name="greyE5">#E5E5E5</color>
+    <color name="blueFB">#DDDEFB</color>
+    <color name="blueEB">#575DEB</color>
+    <color name="p2pBackgroundColor">#F9FAFC</color>
+    <color name="indicatorColorGrey">#DBD9E6</color>
+    <color name="pinCodeGrey">#E6E6E6</color>
+
+    <color name="storyAllStoriesDisplayedBorderColor">#E1E1E1</color>
+
+    <color name="barcode_reticle_background">#99000000</color>
+    <color name="barcode_reticle_stroke">#40000000</color>
+    <color name="barcode_field_value">#797979</color>
+    <color name="barcode_field_box_stroke">#757575</color>
+    <color name="reticle_ripple">#9AFFFFFF</color>
+    <color name="review_date_color">#808287</color>
+    <color name="review_rating_color">#585858</color>
+    <color name="rating_green">#4ae8cc</color>
+    <color name="rating_purple">#c097fc</color>
+
+</resources>

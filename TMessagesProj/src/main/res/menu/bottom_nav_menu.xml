@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/social_feed_dest"
+        android:icon="@drawable/i_menu_post"
+        android:title="Social"
+        />
+
+    <item
+        android:id="@+id/messenger_dest"
+        android:icon="@drawable/i_menu_messenger"
+        android:title="Messenger"
+        />
+
+    <item
+        android:id="@+id/market_place_dest"
+        android:icon="@drawable/i_menu_shopping"
+        android:title="Market Place"
+        />
+    <item
+        android:id="@+id/wallet_dest"
+        android:icon="@drawable/i_menu_wallet"
+        android:title="Wallet"
+        />
+    <item
+        android:id="@+id/notifications_dest"
+        android:icon="@drawable/ic_notification"
+        android:title="Notifications"
+        />
+
+</menu>

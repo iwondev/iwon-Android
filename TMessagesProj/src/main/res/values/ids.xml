@@ -1,0 +1,55 @@
+<resources>
+    <item name="menu_regular" type="id"/>
+    <item name="menu_bold" type="id"/>
+    <item name="menu_italic" type="id"/>
+    <item name="menu_link" type="id"/>
+    <item name="menu_mono" type="id"/>
+    <item name="menu_strike" type="id"/>
+    <item name="menu_underline" type="id"/>
+    <item name="menu_groupbolditalic" type="id"/>
+    <item name="parent_tag" type="id"/>
+    <item name="object_tag" type="id"/>
+    <item name="index_tag" type="id"/>
+    <item name="current_animation" type="id"/>
+    <item name="acc_action_small_button" type="id"/>
+    <item name="acc_action_msg_options" type="id"/>
+    <item name="acc_action_open_photo" type="id"/>
+
+    <!-- there are required for focusing order customization on the passcode screen -->
+    <item name="passcode_btn_1" type="id"/>
+    <item name="passcode_btn_2" type="id"/>
+    <item name="passcode_btn_3" type="id"/>
+    <item name="passcode_btn_4" type="id"/>
+    <item name="passcode_btn_5" type="id"/>
+    <item name="passcode_btn_6" type="id"/>
+    <item name="passcode_btn_7" type="id"/>
+    <item name="passcode_btn_8" type="id"/>
+    <item name="passcode_btn_9" type="id"/>
+    <item name="passcode_btn_0" type="id"/>
+    <item name="passcode_btn_backspace" type="id"/>
+    <item name="passcode_btn_done" type="id"/>
+
+    <item name="exo_content_frame" type="id"/>
+    <item name="exo_shutter" type="id"/>
+    <item name="exo_subtitles" type="id"/>
+    <item name="exo_artwork" type="id"/>
+    <item name="exo_controller_placeholder" type="id"/>
+    <item name="exo_controller" type="id"/>
+    <item name="exo_ad_overlay" type="id"/>
+    <item name="exo_overlay" type="id"/>
+    <item name="exo_play" type="id"/>
+    <item name="exo_pause" type="id"/>
+    <item name="exo_rew" type="id"/>
+    <item name="exo_ffwd" type="id"/>
+    <item name="exo_prev" type="id"/>
+    <item name="exo_next" type="id"/>
+    <item name="exo_shuffle" type="id"/>
+    <item name="exo_repeat_toggle" type="id"/>
+    <item name="exo_duration" type="id"/>
+    <item name="exo_position" type="id"/>
+    <item name="exo_progress_placeholder" type="id"/>
+    <item name="exo_progress" type="id"/>
+    <item name="exo_buffering" type="id"/>
+    <item name="exo_error_message" type="id"/>
+    <item name="exo_vr" type="id"/>
+</resources>
